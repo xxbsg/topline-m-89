@@ -1,8 +1,8 @@
 <template>
   <div class="home-container">
     <h1>hello world</h1>
-    <!-- <h2>你好，世界</h2>
-    <h2>更新测试</h2> -->
+    <h2>你好，世界</h2>
+    <h2>更新测试</h2>
     <!-- 导航栏 -->
     <div class="nav-bar">
       <div class="logo"></div>
