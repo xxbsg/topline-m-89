@@ -1,5 +1,6 @@
 <template>
   <div class="home-container">
+    <h1>hello world</h1>
     <!-- 导航栏 -->
     <div class="nav-bar">
       <div class="logo"></div>
